@@ -1,1 +1,1 @@
-# mynode
+# Docker Image 
